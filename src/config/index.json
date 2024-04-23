@@ -1,7 +1,7 @@
 {
   "company": {
     "name": "MCR Innovate",
-    "logo": "/assets/images/logo.png"
+    "logo": "/assets/images/logo.jpg"
   },
   "navigation": [
     {
@@ -13,11 +13,7 @@
       "href": "features"
     },
     {
-      "name": "Pricing",
-      "href": "pricing"
-    },
-    {
-      "name": "About",
+      "name": "Acerca de nosotros",
       "href": "about"
     }
   ],
@@ -36,7 +32,7 @@
     },
     "secondaryAction": {
       "text": "Email us",
-      "href": "mailto:issaafakattan@gmail.com?subject=I like react landing page!"
+      "href": "mailto:info@mcri.mx?subject=Contacto"
     }
   },
   "product": {
@@ -57,7 +53,7 @@
   "features": {
     "title": "¿Por qué Elegirnos?",
     "subtitle": "Siempre innovando con las mejores tecnologías!",
-    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+    "description": "En MCR Innovate nos enfocamos en estar siempre actualizados, no solo entendemos las últimas tendencias tecnológicas, sino que también tenemos la experiencia y el conocimiento necesarios para implementarlas de manera estratégica en su empresa. Ya sea que se trate de optimizar sus procesos comerciales con la inteligencia artificial, mejorar la experiencia del cliente con la realidad virtual o asegurar su infraestructura con blockchain, estamos aquí para guiarlo en cada paso del camino.",
     "items": [
       {
         "name": "React.js",

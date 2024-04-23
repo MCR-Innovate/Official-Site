@@ -29,7 +29,7 @@ const About = () => {
         </div>
         <div className="flex items-center gap-x-8 mt-6 h-8">
           <a
-            aria-label="github"
+            aria-label="whatsapp"
             href={socialMedia.github}
             target="_blank"
             rel="noreferrer"
@@ -79,9 +79,9 @@ const About = () => {
         </div>
         <div className="flex items-center mt-6">
           <p className="mt-6 text-xs lg:text-sm leading-none text-gray-900 dark:text-gray-50">
-            &copy; {new Date().getFullYear()} designed by{' '}
+            &copy; {new Date().getFullYear()} diseñado por{' '}
             <a href="https://github.com/issaafalkattan" rel="nofollow">
-              Issaaf Kattan
+              MCR Innovate
             </a>
           </p>
         </div>
